@@ -1,0 +1,12 @@
+name: iris
+title: iris
+username:
+account: oddworldng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 335599
+bundleId: 1351248
+url: https://oddworldng.shinyapps.io/iris/
+when: 1525259858.84581
+asMultiple: FALSE
+asStatic: FALSE
